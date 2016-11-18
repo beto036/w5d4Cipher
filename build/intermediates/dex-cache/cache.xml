@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_6234f418e9005c0a174531a1483d08588d0a3fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_897a884c7b3e942e974fcde004a0228f614ec5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_9c357f042c0f22175ad6c927d43c8ebea8282f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_85a6c6723355de379843b92a47db90284945d70c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_718488b16a688a866c59945fd94f9f15161ca62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_1e9ff20c325c44fc434f652170be363c737fb58b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_82a85ff7b69295f3c39747c4dc4eb8ce713528c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_611d54030d9601ec93776f9f6bab444e829d4d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c88e0215875b6cf8d9847a9596baca7ce79cfa4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_0d62c8fd2af307602134d968d56e6577eb411612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_bbd1028c92cc07505cc4ee0e38fb5cf31cfbb3ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_1d30f8497bebaae14a66ccf789dbb21a8175b154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_34b5954eacd7f1f3706a24b38379a33caf6b5a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e742b34b0af69cef8ecaa1d87bd1c2b0959e78e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\w5d4Cipher\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c37ac62cf08dfc157cf9b8e56753db3735d4823a.jar" />
+    </item>
+
+</items>
